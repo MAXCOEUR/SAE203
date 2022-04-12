@@ -1,3 +1,0 @@
-﻿  Source.cpp
-D:\documents\documents\Mycloud Sync\IUT\S2\SAE\SAE203\Project1\Project1\Source.cpp(172,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
-  Project1.vcxproj -> D:\documents\documents\Mycloud Sync\IUT\S2\SAE\SAE203\Project1\Debug\Project1.exe
